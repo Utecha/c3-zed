@@ -5,7 +5,7 @@
 2. Search for `C3` and click on `Install`
 
 ## Manual Installation:
-1. `git clone https://github.com/AineeJames/c3-zed`
+1. `git clone https://github.com/Utecha/c3-zed`
 2. Open Zed's command palette `Ctrl+Shift+P` and select `extensions`
 3. Click on `Install Dev Extension` and select the cloned directory
 
